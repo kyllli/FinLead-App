@@ -1,4 +1,4 @@
-# hackathon
+# FinLead-App
 
 A new Flutter project.
 
